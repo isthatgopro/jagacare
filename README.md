@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="./assets/logo/jagacare-logo.png" alt="JagaCare logo" width="180" />
 
   <h1>JagaCare</h1>
