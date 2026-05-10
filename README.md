@@ -1,6 +1,9 @@
-<div align="left">
+<div align="center">
   <img src="./assets/logo/jagacare-logo.png" alt="JagaCare logo" width="180" />
 
+</div>
+
+<div align="left">
   <h1>JagaCare</h1>
 
   <p>
@@ -20,7 +23,9 @@ In Taiwan, home care often involves multilingual communication. Older adults may
 
 JagaCare aims to turn spoken care updates into structured records. The system can help families review daily care activities and detect possible problems earlier, such as missed repositioning, reduced food intake, abnormal mood changes, or lower activity levels.
 
-This repository currently contains the UI prototypes only. The backend AI pipeline described below is a planned technical direction, not a fully implemented production system yet.
+**This repository currently contains the UI prototypes only. **
+
+**The backend AI pipeline described below is a planned technical direction, not a fully implemented production system yet.**
 
 ## 中文說明
 
